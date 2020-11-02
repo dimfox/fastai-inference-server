@@ -38,7 +38,7 @@ python3 server.py serve
 Or we can use docker
 ```
 docker build -f Dockerfile  -t fastai-serving .
-#docker run --rm -p 8501:8501 -t fastai-serving .
+docker run --rm -p 8501:8501 -t fastai-serving .
 ```
 
 ## Inference
