@@ -1,0 +1,9 @@
+torch==1.6.0
+torchvision==0.7.0
+pillow
+fastai==2.0.11
+fastcore==1.2.5
+aiohttp
+asyncio
+uvicorn
+starlette
